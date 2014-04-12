@@ -1,6 +1,9 @@
 {
     "name": "hhvm/xhp",
     "require": {
+    },
+    "autoload": {
+      "files": ["src/init.php"]
     }
 }
 
